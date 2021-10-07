@@ -1,0 +1,10 @@
+cirkel groen
+halve cirkel roze
+vierkant geel
+driehoek oranje
+halve cirkel# deze moet fout gaan
+rechthoek geel
+blauw # deze moet fout gaan
+halve cirkel paars # deze moet ook fout gaan
+cirkel geel
+vierkant geel
